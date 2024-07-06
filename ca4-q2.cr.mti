@@ -1,0 +1,16 @@
+{C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q2/elements.v} {1 {vlog -work work {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q2/elements.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module configurable_register
+-- Compiling module configurable_shift_register
+-- Compiling module sellector
+-- Compiling module recoder
+-- Compiling module up_counter
+
+Top level modules:
+	configurable_register
+	configurable_shift_register
+	sellector
+	recoder
+	up_counter
+
+} {} {}}
